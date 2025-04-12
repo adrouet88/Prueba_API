@@ -1,0 +1,4 @@
+requisitos del proyecto
+
+PHP 8.2.4 
+lARAVEL 10.0.0
